@@ -9,8 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## String
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
