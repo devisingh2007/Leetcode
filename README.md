@@ -18,5 +18,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
