@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/devisingh2007/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
 |  |
