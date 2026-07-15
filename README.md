@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/devisingh2007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0904-fruit-into-baskets](https://github.com/devisingh2007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/devisingh2007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/devisingh2007/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/devisingh2007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/devisingh2007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/devisingh2007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
