@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/devisingh2007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0942-di-string-match](https://github.com/devisingh2007/Leetcode/tree/master/0942-di-string-match) |
+| [0989-add-to-array-form-of-integer](https://github.com/devisingh2007/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/devisingh2007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/devisingh2007/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/devisingh2007/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/devisingh2007/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/devisingh2007/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/devisingh2007/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/devisingh2007/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
