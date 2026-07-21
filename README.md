@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/devisingh2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/devisingh2007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/devisingh2007/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/devisingh2007/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0942-di-string-match](https://github.com/devisingh2007/Leetcode/tree/master/0942-di-string-match) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devisingh2007/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/devisingh2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/devisingh2007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/devisingh2007/Leetcode/tree/master/0904-fruit-into-baskets) |
