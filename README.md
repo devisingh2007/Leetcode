@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devisingh2007/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/devisingh2007/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devisingh2007/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1550-three-consecutive-odds](https://github.com/devisingh2007/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
