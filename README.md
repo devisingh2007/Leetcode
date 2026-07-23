@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/devisingh2007/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/devisingh2007/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devisingh2007/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devisingh2007/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
