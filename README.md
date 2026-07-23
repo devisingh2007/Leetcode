@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/devisingh2007/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/devisingh2007/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/devisingh2007/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/devisingh2007/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/devisingh2007/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/devisingh2007/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devisingh2007/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/devisingh2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/devisingh2007/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
