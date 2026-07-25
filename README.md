@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/devisingh2007/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/devisingh2007/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
