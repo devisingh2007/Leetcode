@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/devisingh2007/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/devisingh2007/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -160,9 +161,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/devisingh2007/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/devisingh2007/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
