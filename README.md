@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devisingh2007/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devisingh2007/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3828-final-element-after-subarray-deletions](https://github.com/devisingh2007/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devisingh2007/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/devisingh2007/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3828-final-element-after-subarray-deletions](https://github.com/devisingh2007/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
 |  |
 | ------- |
@@ -165,9 +167,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/devisingh2007/Leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/devisingh2007/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/devisingh2007/Leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/devisingh2007/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
