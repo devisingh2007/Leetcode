@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0942-di-string-match](https://github.com/devisingh2007/Leetcode/tree/master/0942-di-string-match) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devisingh2007/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/devisingh2007/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/devisingh2007/Leetcode/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/devisingh2007/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/devisingh2007/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/devisingh2007/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/devisingh2007/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
