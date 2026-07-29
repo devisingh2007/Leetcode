@@ -177,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/devisingh2007/Leetcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/devisingh2007/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
