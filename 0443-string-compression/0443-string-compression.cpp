@@ -12,13 +12,12 @@ public:
                 count++;
                 i++;
             }
+
             ans += a;
             if (count != 1)
                 ans += to_string(count);
         }
-        for (auto a : chars) {
-            chars.pop_back();
-        }
+       chars.clear();
         for (auto a : ans) {
             chars.push_back(a);
         }
