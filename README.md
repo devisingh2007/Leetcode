@@ -194,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/devisingh2007/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/devisingh2007/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/devisingh2007/Leetcode/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/devisingh2007/Leetcode/tree/master/1683-invalid-tweets) |
 | [1965-employees-with-missing-information](https://github.com/devisingh2007/Leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
