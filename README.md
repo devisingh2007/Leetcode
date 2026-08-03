@@ -206,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/devisingh2007/Leetcode/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/devisingh2007/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/devisingh2007/Leetcode/tree/master/1965-employees-with-missing-information) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
