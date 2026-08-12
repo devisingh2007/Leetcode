@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/devisingh2007/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0707-design-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devisingh2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/devisingh2007/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/devisingh2007/Leetcode/tree/master/0455-assign-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
