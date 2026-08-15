@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devisingh2007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devisingh2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devisingh2007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/devisingh2007/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/devisingh2007/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/devisingh2007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/devisingh2007/Leetcode/tree/master/0441-arranging-coins) |
