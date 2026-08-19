@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/devisingh2007/Leetcode/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/devisingh2007/Leetcode/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/devisingh2007/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/devisingh2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/devisingh2007/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/devisingh2007/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2396-strictly-palindromic-number](https://github.com/devisingh2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devisingh2007/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisingh2007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/devisingh2007/Leetcode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/devisingh2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3828-final-element-after-subarray-deletions](https://github.com/devisingh2007/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
