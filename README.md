@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devisingh2007/Leetcode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/devisingh2007/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devisingh2007/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/devisingh2007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devisingh2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devisingh2007/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
