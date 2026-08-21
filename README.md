@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/devisingh2007/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/devisingh2007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/devisingh2007/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/devisingh2007/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devisingh2007/Leetcode/tree/master/0414-third-maximum-number) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/devisingh2007/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/devisingh2007/Leetcode/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
