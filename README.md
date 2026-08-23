@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/devisingh2007/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2396-strictly-palindromic-number](https://github.com/devisingh2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/devisingh2007/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2769-find-the-maximum-achievable-number](https://github.com/devisingh2007/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devisingh2007/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisingh2007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/devisingh2007/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
