@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/devisingh2007/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1920-build-array-from-permutation](https://github.com/devisingh2007/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/devisingh2007/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devisingh2007/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/devisingh2007/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/devisingh2007/Leetcode/tree/master/0054-spiral-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/devisingh2007/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/devisingh2007/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devisingh2007/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/devisingh2007/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
