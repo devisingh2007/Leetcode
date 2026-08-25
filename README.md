@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devisingh2007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/devisingh2007/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/devisingh2007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devisingh2007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/devisingh2007/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/devisingh2007/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devisingh2007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/devisingh2007/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/devisingh2007/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/devisingh2007/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/devisingh2007/Leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/devisingh2007/Leetcode/tree/master/0441-arranging-coins) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/devisingh2007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devisingh2007/Leetcode/tree/master/0054-spiral-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
