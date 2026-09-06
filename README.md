@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/devisingh2007/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devisingh2007/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2716-minimize-string-length](https://github.com/devisingh2007/Leetcode/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisingh2007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devisingh2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/devisingh2007/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devisingh2007/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devisingh2007/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/devisingh2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2716-minimize-string-length](https://github.com/devisingh2007/Leetcode/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisingh2007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisingh2007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3163-string-compression-iii](https://github.com/devisingh2007/Leetcode/tree/master/3163-string-compression-iii) |
