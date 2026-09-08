@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devisingh2007/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/devisingh2007/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/devisingh2007/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3870-count-commas-in-range](https://github.com/devisingh2007/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devisingh2007/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
