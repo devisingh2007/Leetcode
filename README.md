@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/devisingh2007/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/devisingh2007/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/devisingh2007/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/devisingh2007/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/devisingh2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/devisingh2007/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/devisingh2007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devisingh2007/Leetcode/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/devisingh2007/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
