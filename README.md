@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/devisingh2007/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/devisingh2007/Leetcode/tree/master/0709-to-lower-case) |
+| [0824-goat-latin](https://github.com/devisingh2007/Leetcode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/devisingh2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/devisingh2007/Leetcode/tree/master/0942-di-string-match) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devisingh2007/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
