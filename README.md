@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devisingh2007/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devisingh2007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/devisingh2007/Leetcode/tree/master/0046-permutations) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devisingh2007/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devisingh2007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/devisingh2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/devisingh2007/Leetcode/tree/master/0076-minimum-window-substring) |
