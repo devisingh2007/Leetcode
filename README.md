@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/devisingh2007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/devisingh2007/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/devisingh2007/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/devisingh2007/Leetcode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/devisingh2007/Leetcode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/devisingh2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/devisingh2007/Leetcode/tree/master/0942-di-string-match) |
@@ -463,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/devisingh2007/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devisingh2007/Leetcode/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/devisingh2007/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
