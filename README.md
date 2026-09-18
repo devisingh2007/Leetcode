@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devisingh2007/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devisingh2007/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devisingh2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/devisingh2007/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/devisingh2007/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devisingh2007/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/devisingh2007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/devisingh2007/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devisingh2007/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisingh2007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/devisingh2007/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/devisingh2007/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devisingh2007/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/devisingh2007/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
